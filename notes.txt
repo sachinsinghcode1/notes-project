@@ -1,0 +1,6 @@
+My First Git Project
+
+Today I learned:
+- Git init
+-git add
+-git commit
